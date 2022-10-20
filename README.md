@@ -32,7 +32,7 @@ This project was developed with the following technologies:
 
 Rocketpay is a component that simulates the credit card filling form, where it is possible to add mask to the inputs and update HTML elements via DOM.
 
-[Click here to access the website](https://rocketpay-five.vercel.app/)
+[Click here to access the website](https://rocketpay-httpedroluiz.vercel.app/)
 
 ## 🎨 Layout
 
