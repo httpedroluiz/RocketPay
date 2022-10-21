@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="rocketpay" src=".github/project.png" width="100%">
+  <img alt="rocketpay" src=".github/preview.gif" width="100%">
 </p>
 
 ## 🚀 Technologies
